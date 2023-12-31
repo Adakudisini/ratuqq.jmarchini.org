@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:https://ratuqq.id.ui-birch.devops.onsolve.com/sitemap.xml
